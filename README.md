@@ -1,2 +1,2 @@
 # Web-APIs
-Web APIs with ASP.NET Core
+RESTful APIs with ASP.NET Core
